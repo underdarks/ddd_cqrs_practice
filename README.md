@@ -1,4 +1,4 @@
-# ddd, cqrs
+# ddd, cqrs 연습
 
 ---
 - 아키텍쳐 : DDD + CQRS 적용(확장성 고려) + layered 아키텍처
